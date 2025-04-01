@@ -1,0 +1,32 @@
+.food-icon {
+    height: 40px;
+}
+
+body {
+    color: #114641;
+    font-family: Nunito;
+    background-color: #FFF2DE;
+    padding:30px;
+}
+
+.filter-option-selected {
+    background-color: #FFFFFF;
+}
+.filter-option-unselected {
+    background-color: #FFFFFF;
+}
+.food-card {
+    background-color: #FFFFFF;
+}
+
+.label-green {
+    background-color: #D3F0E7;
+}
+
+.label-yellow {
+    background-color: #FFEDAA;
+}
+
+.label-red {
+    background-color: #F7D8DC;
+}
